@@ -25,31 +25,31 @@ button:hover, .btn:hover {
 }
 
 a {
-  color: #017fcb;
+  color: #ff0083;
 }
 
 a:hover, a:focus {
-  color: #015693;
+  color: #ff0083;
 }
 
 .btn-primary {
-  background-color: #0193e1;
-  border-color: #0193e1;
+  background-color: #ff0083;
+  border-color: #ff0083;
 }
 
 .btn-primary:hover {
-  background-color: #017fcb;
-  border-color: #017fcb;
+  background-color: #ff0083;
+  border-color: #ff0083;
 }
 
 .btn-primary[disabled], .btn-primary[disabled]:hover {
-  background-color: #0193e1;
-  border-color: #0193e1;
+  background-color: #ff0083;
+  border-color: #ff0083;
   opacity: 0.4;
 }
 
 .App-header {
-  background-color: #082142;
+  background-color: #ff0083;
   height: 60px;
   color: white;
   display: block;
@@ -76,7 +76,7 @@ div.mlflow-logo {
 }
 
 img.mlflow-logo {
-  height: 40px;
+  height: 50px;
   margin-left: 64px;
   margin-top: 10px;
   margin-bottom: 10px;
