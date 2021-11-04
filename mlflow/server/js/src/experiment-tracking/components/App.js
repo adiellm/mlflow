@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import logo from '../../common/static/home-logo.png';
+import logo from '../../common/static/lmnd-flow.png';
 import { HashRouter as Router, Route, Link, NavLink } from 'react-router-dom';
 import { RunPage } from './RunPage';
 import Routes from '../routes';
